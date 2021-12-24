@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hey there.....
+This is Mihir Bhave a student developer who codes for experience and fun !
+
+### Languages 
+- Python
+- JavaScript
+
+### Frameworks
+- React
+- NodeJS
+
+### Interest
+- App Development
+- Website Development
+- Discord Bot Development
+- Automated Python Scripts
+- 
 
 <!--
 **MihirBhave/MihirBhave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
